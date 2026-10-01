@@ -1,0 +1,157 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="double" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="size" type="uint" value="26"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="3"/>
+        <value type="int" value="2"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="7"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="19"/>
+        <value type="int" value="31"/>
+        <value type="int" value="35"/>
+        <value type="int" value="11"/>
+        <value type="int" value="36"/>
+        <value type="int" value="10"/>
+      </property>
+      <property name="mode" type="uint" value="0"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="background-style" type="uint" value="2"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.16470588235294117"/>
+        <value type="double" value="0.16470588235294117"/>
+        <value type="double" value="0.16470588235294117"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="background-image" type="string" value="file:///home/aness_/Downloads/1ffa7d3e-5d12-4d82-a596-5682c3f86c41.jpeg"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-1" type="string" value="applicationsmenu"/>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="true"/>
+      <property name="workspace-scrolling" type="bool" value="false"/>
+    </property>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (80%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (42%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (82%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (77%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (85%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (84%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (75%)"/>
+        <value type="string" value="wi-fi network connection “androidap8752” active: androidap8752 (60%)"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (55%)"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (49%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (59%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (52%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (54%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (32%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (47%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (57%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (50%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (79%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (60%)"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (62%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (45%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (72%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (67%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (64%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (69%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (65%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (74%)"/>
+        <value type="string" value="wi-fi network connection “idoomfibre_ateh69hk5” active: idoomfibre_ateh69hk5 (70%)"/>
+        <value type="string" value="no network connection"/>
+        <value type="string" value="ethernet network connection “wired connection 1” active"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="proton.vpn.app.gtk"/>
+        <value type="string" value="blueman"/>
+        <value type="string" value="obs"/>
+        <value type="string" value="discord_status_icon_1"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="PenTablet"/>
+        <value type="string" value="chrome_status_icon_1"/>
+      </property>
+    </property>
+    <property name="plugin-7" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-8" type="string" value="clock">
+      <property name="show-week-numbers" type="bool" value="false"/>
+      <property name="mode" type="uint" value="2"/>
+      <property name="digital-time-format" type="string" value="%T"/>
+      <property name="digital-layout" type="uint" value="0"/>
+      <property name="digital-date-format" type="string" value="%m/%d/%Y"/>
+      <property name="command" type="string" value="orage -t"/>
+    </property>
+    <property name="plugin-9" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="false"/>
+      </property>
+    </property>
+    <property name="plugin-19" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="known-players" type="string" value="Brave;firefox"/>
+      <property name="show-notifications" type="uint" value="2"/>
+      <property name="multimedia-keys-to-all" type="bool" value="false"/>
+    </property>
+    <property name="notes" type="empty">
+      <property name="global" type="empty">
+        <property name="version" type="string" value="1.12.0"/>
+        <property name="background-color" type="string" value="#FCF66F"/>
+        <property name="skip-taskbar-hint" type="bool" value="true"/>
+      </property>
+    </property>
+    <property name="plugin-31" type="string" value="whiskermenu">
+      <property name="recent" type="array">
+        <value type="string" value="code-oss.desktop"/>
+        <value type="string" value="xfce4-dict.desktop"/>
+        <value type="string" value="xfce4-taskmanager.desktop"/>
+        <value type="string" value="bssh.desktop"/>
+        <value type="string" value="xfburn.desktop"/>
+      </property>
+      <property name="view-mode" type="int" value="0"/>
+      <property name="launcher-show-name" type="bool" value="true"/>
+      <property name="button-icon" type="string" value="/home/aness_/Downloads/D-bbniV4gRN3-ccv09CduhyuzNtT2JCfD6ymHkdKsfg.webp"/>
+    </property>
+    <property name="plugin-35" type="string" value="xfce4-notes-plugin"/>
+    <property name="plugin-36" type="string" value="xfce4-timer-plugin"/>
+    <property name="plugin-2" type="string" value="calculator"/>
+    <property name="plugin-10" type="string" value="power-manager-plugin"/>
+    <property name="plugin-11" type="string" value="actions"/>
+  </property>
+</channel>

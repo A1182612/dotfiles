@@ -1,0 +1,8 @@
+*.key
+*.pem
+*.token
+*history*
+*.log
+.wine/
+*.exe
+*.dll
