@@ -6,3 +6,15 @@
 .wine/
 *.exe
 *.dll
+
+# Security & Private Data
+*.key
+*.pem
+*.token
+*history*
+
+# Logs & Binaries
+*.log
+*.exe
+*.dll
+.wine/
