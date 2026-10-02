@@ -37,11 +37,11 @@ For Non-Arch Users:
 
 Do not copy-paste the full pkglist.txt. Standalone apps exist in most distro repositories under identical or similar names. Search for and install them using your package manager:
 
-Ubuntu / Debian / Mint: sudo apt install <package-name>
+Ubuntu / Debian / Mint: ```sudo apt install <package-name>```
 
-Fedora: sudo dnf install <package-name>
+Fedora: ```sudo dnf install <package-name>```
 
-(Tip: Use apt search <app> or visit pkgs.org to find the exact package name for your distro).
+(Tip: Use apt search <app> or visit https://pkgs.org/  to find the exact package name for your distro).
 
 ### 3. Copy configurations to ~/.config/:
 Copy only the specific configurations you want to try:
